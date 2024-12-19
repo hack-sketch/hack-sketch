@@ -3,7 +3,6 @@
 <img align="right"alt="coding"width="400"src="https://media.licdn.com/dms/image/C5622AQErlQlcPler2g/feedshare-shrink_2048_1536/0/1587628396592?e=2147483647&v=beta&t=6gbzpglnet87uHEUlsH1GBq6TM1FaNsD8xcWeKZmWa0">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sagar-03&label=Profile%20views&color=0e75b6&style=flat" alt="sagar-03" /> </p>
 
-<p align="left"> <a href="https://twitter.com/sagarkumar16289" target="blank"><img src="https://img.shields.io/twitter/follow/sagarkumar16289?logo=twitter&style=for-the-badge" alt="sagarkumar16289" /></a> </p>
 
 - 📫 Reach me **rohitkumar932004@gmail.com**
 
